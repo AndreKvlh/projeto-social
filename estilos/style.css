@@ -32,9 +32,9 @@ section {
 
 #celular iframe {
     position: relative;
-    top: 13%;
-    left: 15%;
-    width: 70%;
+    top: 64px;
+    left: 44px;
+    width: 71%;
     height: 75%;
 }
 
